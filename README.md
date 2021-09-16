@@ -1,5 +1,12 @@
-# dsa3101_intelli_insure
-assignment 1 - employ use of treebased model to solve a business problem
+# DSA3101_intelli_insure
+Assignment 1 - employ use of treebased model to solve a business problem
+- With my internship experience in BOS, I have gained a better understanding of how data solutions can truly offer business value, by interfacing it with a webapp.
+- I have always questioned how complex data science techniques can be accessed by the layman business user, when it requires technical skill to operate it, and the answer is they simply cannot.
+
+Additionally, I was responsible for the choice of data science model and 
+i choose random forest classifier despite of XGBoost for as I could still reap the benefits of ensemble method, but the former could be better understood by my groupmates, as there was a differential in the applied skills of members due to randomised grouping in this module.
+ 
+I also used GridSearchCV to perform hyperparameter tuning on the RFClassifier. To note, deepnote's cpu for the free account is rather weak and probably lacks the ability to do parallel computation. It took 33mins to perform 360 counts. on my i5-11300, it took slightly more than a minute, with the Grid space
 
 
 ## Slides![Slide27](https://user-images.githubusercontent.com/49776926/133610017-ff856195-0c82-48d0-9fc9-1dbf86712796.PNG)
@@ -22,4 +29,5 @@ assignment 1 - employ use of treebased model to solve a business problem
 ![image](https://user-images.githubusercontent.com/49776926/133609567-f2b476dd-d962-4f04-809a-b820b034cfe9.png)
 ![image](https://user-images.githubusercontent.com/49776926/133609645-f706b808-df3c-4bf6-8035-507d83d45586.png)
 
-
+# Background
+![background](https://user-images.githubusercontent.com/49776926/133610670-4433ad5d-f240-416e-81d3-5d5470278567.png)
