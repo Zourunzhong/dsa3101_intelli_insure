@@ -6,7 +6,7 @@ Assignment 1 - employ use of treebased model to solve a business problem
 Additionally, I was responsible for the choice of data science model and 
 i choose random forest classifier despite of XGBoost for as I could still reap the benefits of ensemble method, but the former could be better understood by my groupmates, as there was a differential in the applied skills of members due to randomised grouping in this module.
  
-I also used GridSearchCV to perform hyperparameter tuning on the RFClassifier. To note, deepnote's cpu for the free account is rather weak and probably lacks the ability to do parallel computation. It took 33mins to perform 360 counts. on my i5-11300, it took slightly more than a minute, with the Grid space
+I also used GridSearchCV to perform hyperparameter tuning on the RFClassifier. To note, deepnote's cpu for the free account is rather weak and probably lacks the ability to do parallel computation. It took 33mins to perform 360 counts. on my i5-11300, it took slightly more than a minute, with the same Grid Space
 
 
 ## Slides![Slide27](https://user-images.githubusercontent.com/49776926/133610017-ff856195-0c82-48d0-9fc9-1dbf86712796.PNG)
