@@ -17,7 +17,7 @@ Additionally, I was responsible for the choice of data science model and
 
 
 - experimented with the use of SpearmanR correlation to detect monotonic correlation between viariables, visualised using a dendrogram
- ![image](https://user-images.githubusercontent.com/49776926/133612787-2ef309e6-8cd9-4259-b6f1-1f5e9ebfa235.png)
+![image](https://user-images.githubusercontent.com/49776926/133614336-3b5b8416-2322-4093-aba9-901e59834e5d.png)
 
 
 - I was the sole contributor in terms of ideation & developing of my webapp solution(mock up). Additional features to benefit users were also thought up by me. 
