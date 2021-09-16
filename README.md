@@ -12,6 +12,7 @@ Additionally, I was responsible for the choice of data science model and
 ![image](https://user-images.githubusercontent.com/49776926/133613649-2b260bf6-f83e-4be5-ab6d-2abfa3e43fb6.png)
 
 - experimented with VIF to detect multi-collinearity in columns
+
 ![image](https://user-images.githubusercontent.com/49776926/133613148-58558855-a214-43f3-88b3-3f5bedea37d5.png)
 
 
